@@ -14,37 +14,29 @@ This repository contains an implementation of an Agentic AI Developer, a system 
 📂 Repository Structure
 .
 ├── Agentic_AI.ipynb   # Main notebook demonstrating the agentic AI workflow
-├── requirements.txt   # Dependencies (if any)
 └── README.md          # Project documentation
 
 🚀 Getting Started
 1. Clone the Repository
-git clone https://github.com/your-username/agentic-ai-developer.git
-cd agentic-ai-developer
+git clone https://github.com/varshanaradasu/Agentic-AI.git
+cd Agentic-AI
 
-2. Create Virtual Environment (Optional but Recommended)
-python -m venv venv
-source venv/bin/activate   # On macOS/Linux
-venv\Scripts\activate      # On Windows
-
-3. Install Dependencies
-pip install -r requirements.txt
-
-4. Run the Notebook
+2. Open the Notebook
+Make sure Jupyter is installed, then launch the notebook:
 jupyter notebook Agentic_AI.ipynb
+
+3. Explore
+Run the cells in sequence.
+Provide high-level tasks (e.g., "build a calculator") and see how the AI agent plans, generates, and executes code.
 
 🧩 Usage
 
 Open the notebook.
-
 Provide a high-level task (e.g., "build a calculator web app").
 
 The AI agent will:
-
 Break down the problem.
-
 Generate the necessary code.
-
 Execute and refine until completion.
 
 🛠️ Tech Stack
